@@ -7,7 +7,7 @@ This page lists software, data (forthcoming), and instructions (forthcoming) for
 snsscrape script: snscrape twitter-search "HASHTAGE since:2022-10-01 until:2022-11-20" > FILE_NAME.txt
 
 Python notebook for retrieving data from Twitter API:
-<a href=https://github.com/userDrivenAudits/userDrivenAudits.github.io/blob/e41980dbca13ff87c5f626cdbf466f2883a62976/twitter_data_rate.ipynb </a>
+<a href="https://github.com/userDrivenAudits/userDrivenAudits.github.io/blob/e41980dbca13ff87c5f626cdbf466f2883a62976/twitter_data_rate.ipynb" </a>
 
 
 ### Software for building and testing the Relevance and Division of Labor Classifiers
