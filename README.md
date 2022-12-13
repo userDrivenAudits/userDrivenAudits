@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This page lists software, data (forthcoming), and instructions for replicating a research study that examined the level of participantion in four user-driven auditing cases, including in 5 common roles users played in these audits.
+This page lists software, data (forthcoming), and instructions (forthcoming) for replicating a research study that examined the level of participantion in four user-driven auditing cases, including in 5 common roles users played in these audits.
 
 ### Python Scripts and notebooks for retrieving data from Twitter
 
