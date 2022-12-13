@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**userDrivenAudits/userDrivenAudits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This page lists software, data (forthcoming), and instructions for replicating a research study that examined the level of participantion in four user-driven auditing cases, including in 5 common roles users played in these audits.
 
-Here are some ideas to get you started:
+### Python Scripts and notebooks for retrieving data from Twitter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+snsscrape script:
+
+Python notebook for retrieving data from Twitter API: 
+
+
+### Software for building and testing the Relevance and Division of Labor Classifiers
+We used the open-source software LightSide to train and test 2 classifiers: (1) Relevance classifier and (2) Division of Labor Classifier. The software can be downloaded at this page: http://ankara.lti.cs.cmu.edu/side/ 
+
+### Relevance Classifier -- Model Selection and Features
+
+Model: Naive Bayes
+Settings Selected: 10-fold cross-validation
+Features: unigrams, bigrams, trigrams, no punctuation
+
+Model: Support Vector Machines
+Settings Selected: Normalize, LibLinear, 10-fold cross-validation
+Features: unigrams, bigrams, trigrams, no punctuation
+
+### Division of Labor Classifier -- Model Selection and Features
+
+Models: 
+Settings:
+
+
+
+### Training, Test and Data-sets
+(These will be posted at publication pending review)
