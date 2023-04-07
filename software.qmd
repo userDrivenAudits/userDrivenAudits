@@ -7,6 +7,12 @@ title: Software
 ## Python script 
 To retrieve tweet data from the Twitter API, we used the [snsscrape](https://github.com/JustAnotherArchivist/snscrape) script, below. In this script, we inserted the keywords for hashtags associated with the user-driven auditng cases, and the date-ranges that news articles and users were known to be talking about the cases. 
 
+```{python}
+
+snscrape twitter-search "[INSERT KEYWORD] since:2021-01-01 until:2021-04-09" > name_file.txt
+
+```
+
 After using the [snsscrape](https://github.com/JustAnotherArchivist/snscrape) script, we then wrote a python script to request data from the Twitter API. The python script we used to retrieve data from the Twitter API is in this [Colab Notebook](https://github.com/userDrivenAudits/userDrivenAudits.github.io/blob/e41980dbca13ff87c5f626cdbf466f2883a62976/twitter_data_rate.ipynb)
 
 ## Classifier Development
