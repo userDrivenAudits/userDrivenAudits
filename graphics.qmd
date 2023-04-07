@@ -2,18 +2,18 @@
 title: Data Visualizations
 ---
 
-::: {.column-screen}
+::: {.column-screen-inset-shaded}
 ![](2_Apple Card_tweets_by_label.png)
 :::
 
-::: {.column-screen}
+::: {.column-screen-inset-shaded}
 ![](2_ImageNet Roulette_tweets_by_label.png)
 :::
 
-::: {.column-screen}
+::: {.column-screen-inset-shaded}
 ![](2_Portrait AI_tweets_by_label.png)
 :::
 
-::: {.column-screen}
+::: {.column-screen-inset-shaded}
 ![](2_tweets_by_label.png)
 :::
