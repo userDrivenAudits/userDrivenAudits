@@ -156,6 +156,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="python-script" class="level2">
 <h2 class="anchored" data-anchor-id="python-script">Python script</h2>
 <p>To retrieve tweet data from the Twitter API, we used the <a href="https://github.com/JustAnotherArchivist/snscrape">snsscrape</a> script, below. In this script, we inserted the keywords for hashtags associated with the user-driven auditng cases, and the date-ranges that news articles and users were known to be talking about the cases.</p>
+<p><code>snscrape twitter-search "[INSERT KEYWORD] since:2021-01-01 until:2021-04-09" &gt; name_file.txt</code></p>
 <p>After using the <a href="https://github.com/JustAnotherArchivist/snscrape">snsscrape</a> script, we then wrote a python script to request data from the Twitter API. The python script we used to retrieve data from the Twitter API is in this <a href="https://github.com/userDrivenAudits/userDrivenAudits.github.io/blob/e41980dbca13ff87c5f626cdbf466f2883a62976/twitter_data_rate.ipynb">Colab Notebook</a></p>
 </section>
 <section id="classifier-development" class="level2">
