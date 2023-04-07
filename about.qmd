@@ -1,0 +1,92 @@
+---
+title: Team Members
+---
+
+<div class="clearfix">
+<img src="headshot.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=350>
+<h2 class="display-10">Rena Li</h2>
+<p class="lead">
+Rena Li is a current undergraduate student majoring in Human Computer Interaction (HCI) at Carnegie Mellon University. Her research work focuses on the mitigation of harms caused by algorithmic systems and tools.
+</p>
+|
+|
+|
+
+<img src="sara.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=300>
+<h2 class="display-10">Sara Kingsley</h2>
+<p class="lead">
+Sara Kingsley is a current PhD student in the Human-Computer Interaction Institute (HCII). 
+Her research examines how labor markets and marginalized communities are effected by the design of algorithmic systems and digital platforms.
+</p>
+ 
+|
+|
+<h2 class="display-10">Chelsea Fan</h2>
+<p class="lead">
+Chelsea Fan graduated from Carnegie Mellon University's School of Computer Science, where she was a Research Assistant for Professor Jason Hong.
+</p>
+|
+|
+|
+
+<img src="proteeti.jpeg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=300>
+<h2 class="display-10">Proteeti Sinha</h2>
+<p class="lead">
+Proteeti Sinha graduated from Carnegie Mellon University in May 2022 with a degree in Computer Science and a minor in Business Administration. Her research focuses on exploring and mitigating algorithmic bias in computational systems. 
+</p>
+
+|
+|
+|
+<h2 class="display-10">Nora Wai</h2>
+<p class="lead">
+Nora Wang graduated from Carnegie Mellon University's School of Computer Science, where was a Research Assistant for Professor Jason Hong.
+</p>
+|
+|
+|
+
+<img src="JLProfile.JPG" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=300>
+<h2 class="display-10">Jaimie Lee</h2>
+<p class="lead">
+Jaimie Lee is an undergraduate student studying Mathematics and Computer Science at Carnegie Mellon University. Her research projects relate to studying auditing processes for identifying and addressing harmful algorithmic biases. Her primary fields of interest and contributions involve data analysis work.
+</p>
+|
+|
+|
+
+<img src="headshot_Hong.jpeg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=300>
+<h2 class="display-10">Hong Shen</h2>
+<p class="lead">
+Hong Shen is an Assistant Research Professor in the Human Computer Interaction Institute at Carnegie Mellon University (CMU).  She received her PhD from the University of Illinois at Urbana-Champaign (UIUC). Her research focuses on the social and policy dimensions of digital platforms and algorithmic systems, with a strong emphasis on bias, fairness and social justice in Artificial Intelligence and Machine Learning. Her work has been funded through grants from the National Science Foundation (NSF), Amazon, Cisco, CyLab, Block Center for Technology and Society, and more. She is the recipient of a Google Policy Fellowship.  
+</p>
+|
+|
+|
+
+<img src="motahhare.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=300>
+<h2 class="display-10">Motahhare Eslami</h2>
+<p class="lead">
+Motahhare Eslami is an assistant professor at the School of Computer Science, Human-Computer Interaction Institute (HCII), and Institute for Software Research (ISR), at Carnegie Mellon University.  She earned her Ph.D. in Computer Science at the University of Illinois at Urbana-Champaign. Motahhare’s research goal is to investigate the existing accountability challenges in algorithmic systems and to empower the users of algorithmic systems, particularly those who belong to marginalized communities or those whose decisions impact marginalized communities, make transparent, fair, and informed decisions in interaction with algorithmic systems. Motahhare’s work has been recognized with a Google Ph.D. Fellowship, Best Paper Award and Honorable Mention Award at top-tier ACM conferences, and has been covered in mainstream media such as Time, The Washington Post, Huffington Post, the BBC, Fortune, and Quartz. Motahhare is named one of the 100 Brilliant Women in AI Ethics, and her research is supported by NSF (Fairness in AI, Future of Work, and AI Institute), CMU’s Block Center for Technology and Society, Amazon, Google, Facebook, and Cisco. 
+</p>
+|
+|
+|
+
+<img src="jason2.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." width=400>
+<h2 class="display-10">Jason Hong</h2>
+<p class="lead">
+Jason Hong is a professor in the Human Computer Interaction Institute, part of the School of Computer Science at Carnegie Mellon University. He works in the areas of usability, mobility, privacy, and security, and his research has been featured in the New York Times, MIT Tech Review, CBS, CNN, Slate, the World Economic Forum, and more. Jason is currently on the editorial board for Communications of the ACM, and previously for ACM Transactions on Human Computer Interaction, IEEE Pervasive Computing, and Foundations and Trends. He is an author of the book The Design of Sites, a popular book on web design using web design patterns. Jason is also a co-founder of Wombat Security Technologies, which was acquired by Proofpoint in March 2018. Jason received his PhD from Berkeley and his undergraduate degrees from Georgia Institute of Technology. Jason has participated on DARPA's Computer Science Study Panel (CS2P), is an Alfred P. Sloan Research Fellow, a Kavli Fellow, a PopTech Science fellow, a New America National Cybersecurity Fellow, a member of CHI Academy, and an ACM Fellow. 
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+

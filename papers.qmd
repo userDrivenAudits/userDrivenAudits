@@ -1,0 +1,9 @@
+---
+title: ""
+site-path: "twitterpaperindex.html"
+---
+
+## Papers
+
+(@) Rena Li ++, Sara Kingsley ++, Chelsea Fan, Proteeti Sinha, Nora Wai, Jaimie Lee, Hong Shen, Motahhare Eslami, and Jason I. Hong. 2023. "Participation and Division of Labor in User-Driven Algorithm Audits: How Do Everyday Users Work together to Surface Algorithmic Harms?." In the Proceedings of ACM's Conference on Human Factors in Computing (CHI). Forthcoming, April 2023, Hamburg, Germany. [Pre-print paper link](https://userdrivenaudits.github.io/twitterpaperindex.html) ++Equal contributions
+
